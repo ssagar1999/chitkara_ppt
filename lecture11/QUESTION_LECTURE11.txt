@@ -1,0 +1,55 @@
+
+                                (USE forEach if for loop is required )
+
+
+
+qUESTION  0:  GIVEN AN ARRAY 
+
+  const staffsDetails = [
+  { name: "Jam Josh", age: 44, salary: 4000, currency: "USD" },
+  { name: "Justina Kap", age: 34, salary: 3000, currency: "USD" },
+  { name: "Chris Colt", age: 37, salary: 3700, currency: "USD" },
+  { name: "Jane Doe", age: 24, salary: 4200, currency: "USD" }
+];
+
+  LOOP OVER ARRAY AND PRINT THIS                           HINT : USE TEMPLATE LITERSALS
+
+"I am Jam Josh, 44 a staff of Royal Suites."
+"I am Justina Kap, 34 a staff of Royal Suites."
+"I am Chris Colt, 37 a staff of Royal Suites."
+"I am Jane Doe, 24 a staff of Royal Suites."
+
+
+
+Q1 : twO SUM ,  Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
+ 
+
+
+ 
+Q3: write a function to find out if a given string is palindrome or not?
+      conditions ( use functions split(), reverse() and join())
+    example - 'racecar' -------------> true
+    example - 'hello' -------------> false
+    example - 'refer' -------------> true
+    example - 'level' -------------> true
+
+
+split --------> breaks string into array
+
+reverse ------> reverse the array 
+
+join ---------> joins the elements of an array and returns it as string.
+
+
+Q3:Delete first character of a string in JavaScript.
+  'hello' -------------> 'ello'
+  'krator' -------------> 'ratos'
+  'Purple' -------------> 'urple'
+
+
+Q4: How to find the longest word within the string in JavaScript ?
+  ex- "Chitkara university in rajpura" -------> 'chitkara'
+   
